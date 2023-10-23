@@ -1,9 +1,0 @@
-Writing a new line in the file.After doing the SSh connection.
-
-:w
-:x
-:::::X
-
-:X
-:W
-
